@@ -2,6 +2,9 @@
 
 A free, customisable QR code generator built with Next.js. Create beautiful QR codes with advanced styling options, custom logos, and support for multiple data types.
 
+<img width="2525" height="1281" alt="image" src="https://github.com/user-attachments/assets/4ebe0790-bf99-4746-b5bd-3dcb141f12f3" />
+
+
 ## Features
 
 ### Content Types
